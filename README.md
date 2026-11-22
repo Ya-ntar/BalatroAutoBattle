@@ -1,4 +1,7 @@
 # Balatro AutoBattle
+https://github.com/balatro-src/balatro-src-reverse-engineering <- поместите папку с этим модом рядом с папкой из этого репрозитория. Разархивируйте движок love над ними. Итог должен выглядеть как-то так
+<img width="705" height="342" alt="изображение" src="https://github.com/user-attachments/assets/b9f14d6a-9288-4dcc-bfdf-0f28422e6768" />
+
 
 Запустите `run.ps1` из папки мода в PowerShell, начните забег, выберите блайнд и нажмите F8, чтобы включить автоматику.
 
